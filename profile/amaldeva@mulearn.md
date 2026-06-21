@@ -98,17 +98,13 @@
 
 #### Career Plan:
 
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
+- **Immediate:** Learn cyber security,python and other skill that meet a job requirement.
+- **Long-term:** To get a good job position in cyber security,python developement.
 
 ---
 
 #### Profile Card:
 
-
-
-
-<img src="https://mulearn.org/embed/rank/amaldeva@mulearn" width="600px"></img>
 
 
 
