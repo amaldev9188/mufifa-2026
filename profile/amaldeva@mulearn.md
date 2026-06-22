@@ -77,9 +77,7 @@
 
 #### Public Portfolio & Recognition:
 
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+- Currently i don't have any projects.During this mufifa i want build up my skill in cyberscurity and build something related this domain like vulnerabilty analysis system
 
 #### Education and Proof of Work:
 
@@ -90,13 +88,11 @@
 
 #### History of Leadership:
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
+- I leaded NSS unit in my school.
 
 #### Networking:
 
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
+- I build my networking through the communities like CSI,mulear and tinkerHub etc..
 
 #### Career Plan:
 
